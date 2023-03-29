@@ -1,1 +1,6 @@
-# FileLoader library with progressbar
+FileLoader library with progressbar
+=====================
+
+Loading screen:
+---------------------
+<img src="assets/progressbar.png" width="600">
