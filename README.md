@@ -1,1 +1,1 @@
-# js-progress-bar
+# FileLoader library with progressbar
